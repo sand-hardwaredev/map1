@@ -1,0 +1,14 @@
+{ "columns":8,
+ "image":"..\/10-Paintings.png",
+ "imageheight":288,
+ "imagewidth":384,
+ "margin":0,
+ "name":"10-Paintings",
+ "spacing":0,
+ "tilecount":48,
+ "tiledversion":"1.9.0",
+ "tileheight":48,
+ "tilewidth":48,
+ "type":"tileset",
+ "version":"1.8"
+}

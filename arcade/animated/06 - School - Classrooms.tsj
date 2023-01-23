@@ -1,0 +1,14 @@
+{ "columns":16,
+ "image":"..\/06 - School - Classrooms.png",
+ "imageheight":768,
+ "imagewidth":768,
+ "margin":0,
+ "name":"06 - School - Classrooms",
+ "spacing":0,
+ "tilecount":256,
+ "tiledversion":"1.9.0",
+ "tileheight":48,
+ "tilewidth":48,
+ "type":"tileset",
+ "version":"1.8"
+}
